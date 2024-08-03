@@ -1,4 +1,4 @@
-# AnÁlise_Global_de_TI
+# Análise_Global_de_TI
 Os dados aqui são fictícios e servem apenas como exemplo, pois, ara criar um gráfico Gapminder realista, seria necessário coletar dados reais de fontes confiáveis, como relatórios de universidades, censos educacionais, e pesquisas de mercado.
 Foram criados dados relevantes sobre as 10 capitais internacionais, focando em informações sobre a população que estuda TI.
 Aqui está um exemplo de como esses dados poderiam ser organizados:
